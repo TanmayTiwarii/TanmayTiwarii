@@ -9,11 +9,8 @@ pip3 install requirements.text
 
 ## Coding Profiles:
 [![Badge](https://cp-logo.vercel.app/codechef/tiwaritanmay42)]
-(https://www.codechef.com/users/tiwaritanmay42)
 [![Badge](https://cp-logo.vercel.app/codeforces/TanmayIShere)]
-((https://codeforces.com/profile/TanmayIShere))
 [![Badge](https://cp-logo.vercel.app/leetcode/tiwaritanmay424)]
-((https://leetcode.com/u/tiwaritanmay424))
 
 
 # 💻 Tech Stack:
