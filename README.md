@@ -1,4 +1,4 @@
-pip3 install requirements.text
+
 
 # 💫 About Me:
 🌱 I’m currently learning Backend Frameworks and practicing DSA using c++.<br>💬 Ask me about Competitive Programming.<br>🤝 I like participating in Hackathons and CP contests.<br>
