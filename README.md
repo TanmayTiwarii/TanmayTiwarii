@@ -1,7 +1,7 @@
 
 
 # 💫 About Me:
-🌱 I’m currently learning Backend Frameworks and practicing DSA using c++.<br>💬 Ask me about Competitive Programming.<br>🤝 I like participating in Hackathons and CP contests.<br>
+🌱 I’m currently learning Computer Network and trying to make a Browser.<br>💬 Ask me about Competitive Programming.<br>🤝 I like participating in Hackathons and CP contests.<br>
 
 
 ## 🌐 Socials:
