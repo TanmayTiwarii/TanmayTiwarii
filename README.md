@@ -2,7 +2,7 @@
 
 # 💫 About Me:
 🌱 I’m a Full Stack Developer who specializes in building robust, scalable BackEnd Systems.<br>💬 Ask me about Competitive Programming.<br>🤝 I like participating in Hackathons and CP contests.<br>
-💻 View my latest project: [UpSolve](https://upsolve-mu.vercel.app/)
+💻 View my latest project: [UpSolve](https://upsolve-zeta.vercel.app/)
 
 
 ## 🌐 Socials:
